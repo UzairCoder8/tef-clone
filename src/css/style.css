@@ -16,6 +16,9 @@ h6 {
   font-weight: 700;
   font-family: "Montserrat", sans-serif;
 }
+p{
+  margin: 0px;
+}
 #about {
   padding: 30px 0px;
   margin: 0px 5px;
@@ -49,7 +52,7 @@ h6 {
 }
 .copyright-info,
 .footer-menu ul li,
-.footer-info {
+.footer-info p{
   font-size: 12px;
 }
 .copyright {
